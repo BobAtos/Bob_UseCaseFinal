@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Conda
+.env
+.venv
+
+# MLflow
+mlruns/
+
+# Pytest
+.pytest_cache/
+
+# VS Code
+.vscode/
+
+# Models temporaires
+*.pkl
+
+# Windows
+Thumbs.db

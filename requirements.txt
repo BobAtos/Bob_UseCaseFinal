@@ -1,0 +1,42 @@
+# Data
+pandas
+numpy
+
+# Visualisation
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+joblib
+
+# Notebook
+jupyter
+notebook
+
+# MLOps
+mlflow
+
+# API
+fastapi
+uvicorn
+
+# Tests
+pytest
+httpx
+
+# Configuration
+python-dotenv
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 

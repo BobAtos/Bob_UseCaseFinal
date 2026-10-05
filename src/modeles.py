@@ -19,7 +19,7 @@ def construire_modeles():
         ),
 
         "Linear SVC": LinearSVC(
-            C=1.0,
+            C=0.1,
             random_state=42
         )
     }
